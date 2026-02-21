@@ -1,13 +1,8 @@
-package.json
-.env
-src/
-  ├─ index.js
-  ├─ App.js
-  ├─ pages/
-       ├─ Apply.js
-       ├─ AdminLogin.js
-       └─ Dashboard.js
-  └─ components/
-       └─ ApplicationCard.js
-public/
-  └─ index.html
+package.json 
+public/index.html
+src/index.js
+src/App.js 
+src/pages/Apply.js 
+src/pages/AdminLogin.js
+src/pages/Dashboard.js 
+src/components/ApplicationCard.js 
